@@ -117,7 +117,7 @@ added later.
 | **Key elements** | Estate imagery, tool title, single "Enter The Dashboard" call to action. |
 | **What it answers** | *"What is this tool and whose estate is it for?"* |
 
-![Landing Page](dashboard_images\Landing Page.png)
+![Landing Page](dashboard_images/Landing_Page.png)
 
 ### 2 · Overview — Estate Map & Sites
 
@@ -127,7 +127,7 @@ added later.
 | **Key elements** | Interactive parcel map (click / Ctrl+click to multi-select), KPI tiles (Available Planting Area, Total Selected Sites, Planned Sites Area), soil-type area breakdown, and a bar chart of selected sites by soil type and feature ID. |
 | **What it answers** | *"Which parcels are available, which have I selected, and how much area/soil type do they represent?"* |
 
-![Overview — Estate Map & Sites](dashboard_images\Overview.png)
+![Overview — Estate Map & Sites](dashboard_images/Overview.png)
 
 ### 3 · Mix Configuration
 
@@ -137,7 +137,7 @@ added later.
 | **Key elements** | Per-species table (area, spacing, layout — square/triangular, yield class, thinning regime, trees needed) for each soil's eight locked species; soil selector; area-allocation slider; map of the selected sites for that soil type. |
 | **What it answers** | *"What should I plant, at what density and management regime, on each soil type?"* |
 
-![Mix Configuration](dashboard_images\Trees Configuration.png)
+![Mix Configuration](dashboard_images/Trees_Configuration.png)
 
 ### 4 · Financial Outcomes
 
@@ -147,7 +147,7 @@ added later.
 | **Key elements** | KPI tiles (Total Revenue, Total PIUs to Project, Revenue per Hectare); cumulative sequestration area chart (PIUs + buffer vs. PIUs in vintage) over 100 years; year-by-year PIU/buffer CO₂ table; claimable revenue by year bar chart; adjustable carbon price. |
 | **What it answers** | *"What is this scenario worth, and when does revenue actually get realised?"* |
 
-![Financial Outcomes](dashboard_images\Financials.png)
+![Financial Outcomes](dashboard_images/Financials.png)
 
 ### 5 · CO₂ Dashboard
 
@@ -157,7 +157,7 @@ added later.
 | **Key elements** | KPI tiles (Total Trees Planted, Total CO₂ at a Year); full-estate cumulative sequestration curve with adjustable analysis year; per-soil-type CO₂ curves; treemap of sequestration contribution by soil type. |
 | **What it answers** | *"How much carbon will this scenario capture, how does that build up over time, and which soil types/areas contribute most?"* |
 
-![CO₂ Dashboard](dashboard_images\CO2 Seqeustration.png)
+![CO₂ Dashboard](dashboard_images/CO2_Seqeustration.png)
 
 ---
 
