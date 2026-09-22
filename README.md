@@ -1,4 +1,4 @@
-# 🌳 West Dean Estate — Afforestation Decision-Support Tool
+# 🌳 West Dean Estate: Afforestation Decision-Support Tool
 
 A capstone project that helps a private estate decide **where, what and how much to plant**
 to create new woodland, and estimates the **carbon sequestration and financial return**
